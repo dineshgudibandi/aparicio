@@ -1,0 +1,73 @@
+{
+  "menuItems": [
+    {
+      "name": "Tacos",
+      "meatOptions": [
+        {
+          "type": "Chicken",
+          "price": "$5.00"
+        },
+        {
+          "type": "Beef",
+          "price": "$5.49"
+        },
+        {
+          "type": "Pork",
+          "price": "$5.49"
+        }
+      ]
+    },
+    {
+      "name": "Burritos",
+      "meatOptions": [
+        {
+          "type": "Chicken",
+          "price": "$11.99"
+        },
+        {
+          "type": "Beef",
+          "price": "$10.49"
+        },
+        {
+          "type": "Pork",
+          "price": "$10.99"
+        }
+      ]
+    },
+    {
+      "name": "Quesadillas",
+      "meatOptions": [
+        {
+          "type": "Cheese",
+          "price": "$11.99"
+        },
+        {
+          "type": "Chicken",
+          "price": "$17.00"
+        },
+        {
+          "type": "Beef",
+          "price": "$16.00"
+        },
+        {
+          "type": "Pork",
+          "price": "$16.00"
+        }
+      ]
+    }
+  ],
+  "drinkItems": [
+    {
+      "name": "Coke",
+      "price": "$1.99"
+    },
+    {
+      "name": "Pepsi",
+      "price": "$1.99"
+    },
+    {
+      "name": "Water",
+      "price": "$0.99"
+    }
+  ]
+}
